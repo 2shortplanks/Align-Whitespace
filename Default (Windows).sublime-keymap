@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["alt+["],
+        "command": "align_whitespace_before"
+    },
+    {
+        "keys": ["alt+]"],
+        "command": "align_whitespace_after"
+    }
+]

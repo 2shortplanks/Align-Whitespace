@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Align whitespace to line before",
+        "command": "align_whitespace_before"
+    },
+    {
+        "caption": "Align whitespace to line after",
+        "command": "align_whitespace_after"
+    }
+]
